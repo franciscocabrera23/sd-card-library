@@ -1,7 +1,7 @@
 {
-  "name": "sd-card-library-photon-compat",
+  "name": "sd-card-library-photon-compat-francisco",
   "author": "Jeshua Maxey <me@jeshua.co>",
   "license": "GPL v3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SD Card Library compatible with Particle Photon(forked from https://github.com/technobly/SparkCore-SD)"
 }
